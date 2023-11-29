@@ -14,4 +14,4 @@ sudo apt install docker-compose -y
 echo "Docker compose installed successfully"
 git clone https://github.com/uzyexe/javascript-tetris.git
 cd javascript-tetris
-docker-compose up
+docker-compose up -d
